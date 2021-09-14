@@ -1,0 +1,12 @@
+certifi==2021.5.30
+click==7.1.2
+Flask==1.1.2
+Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
+greenlet @ file:///C:/ci/greenlet_1628888262822/work
+gunicorn==20.1.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1626948551817/work
+Werkzeug==1.0.1
+wincertstore==0.2
